@@ -2,12 +2,18 @@ body {
 background-color:black;
 font-family:"Century Gothic", sans;
 }
+
 #header { 
 color:red;
 background-color:gray;
+
 }
  h1 { 
 text-align:center;
+
+@media only handheld and (max-width:700px){
+#header:700px;}
+
 
 }
 h5{
