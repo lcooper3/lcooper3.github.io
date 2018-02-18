@@ -11,9 +11,9 @@ background-color:gray;
  h1 { 
 text-align:center;
 
-@media only handheld and (max-width:700px){
-#header:500px;}
-
+/*
+@media only handheld and (min-width:1000px;max-width:1550px;)
+*/
 
 }
 h5{
