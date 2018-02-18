@@ -12,7 +12,7 @@ background-color:gray;
 text-align:center;
 
 @media only handheld and (max-width:700px){
-#header:700px;}
+#header:500px;}
 
 
 }
